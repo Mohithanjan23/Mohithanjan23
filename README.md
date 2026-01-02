@@ -6,10 +6,9 @@
 
 **Full Stack Developer** & **UI/UX Designer**
 
-Passionate about **Cybersecurity**, **App Development**, and **AI**
+Passionate about **Cybersecurity**, **App & Web Development**, with **AI**
 
 currently building **OpenMango** , **Bikebee** , **Starfall** & more
-
 combining clean **UI/UX** with powerful **Python & Flutter** backends
 
 ![](https://komarev.com/ghpvc/?username=Mohithanjan23&label=Profile%20views&color=0e75b6&style=flat)
