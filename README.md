@@ -8,7 +8,7 @@
 
 Passionate about **Cybersecurity**, **App Development**, and **AI**
 
-urrently building **OpenMango** and **Bikebee**
+currently building **OpenMango** , **Bikebee** , more
 
 combining clean **UI/UX** with powerful **Python & Flutter** backends
 
