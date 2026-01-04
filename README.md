@@ -141,8 +141,6 @@ I love turning abstract ideas into **usable systems**, blending clean design, sc
 </a>
 </p>
 
----
-
 <div align="center">
 
  *"I don’t just write code — I design experiences, systems, and stories."*
