@@ -1,49 +1,144 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Mohith%20H&fontAlign=50&fontSize=42&fontColor=ffffff&color=0:8E2DE2,100:4A00E0&animation=twinkling)
+<!-- 1. HACKER TERMINAL HEADER -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=A6E1FA&background=2A2E3400&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;UI%2FUX+Designer;Cybersecurity+Enthusiast;Building+OpenMango" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DVT323%26size%3D35%26duration%3D3000%26pause%3D500%26color%3D00FF41%26background%3D0D1117%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DINITIALIZING%2BSYSTEM_DAEMON...%3BUSER:%2BMOHITH_H%3BCURRENT_TASK:%2BSECURING%2BNETWORKS%3BSTATUS:%2BBUILDING_OPENMANGO" alt="Typing SVG" />
+</a>
+</div>
+
+<!-- 2. TERMINAL BIO -->
+
+root@mohithanjan:~# whoami
+> Full Stack Developer & Cybersecurity Enthusiast
+
+root@mohithanjan:~# cat mission.txt
+> To bridge the gap between UI/UX Design and Secure Backend Engineering.
+> Focus: Building scalable apps with Python, Flutter, and React.
+
+root@mohithanjan:~# ./show_current_status.sh
+> 🔭 Working on: OpenMango (Music App) & Ideavore (Creator Tool)
+> 🌱 Learning: Advanced Cybersecurity & AI Agents
+> ⚡ Fun fact: I design with Figma before I code.
+
+root@mohithanjan:~# _
+
+
+<!-- 3. SKILLS AS "INSTALLED MODULES" -->
+
+[ SYSTEM_DEPENDENCIES ]
+
+<div align="center">
+<a href="https://skillicons.dev">
+<!-- Dark theme icons to match the background -->
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,react,flutter,fastapi,linux,git,docker,mongodb,firebase,mysql,figma,ai%26perline%3D12%26theme%3Ddark" />
+</a>
+</div>
+
+<!-- 4. PROJECTS AS "RUNNING PROCESSES" -->
+
+[ ACTIVE_PROCESSES ]
+
+PID
+
+PROCESS_NAME
+
+TECHNOLOGY
+
+STATUS
+
+001
+
+OpenMango
+
+Flutter / Dart
+
+[ RUNNING ]
+
+002
+
+Ideavore
+
+React / Node
+
+[ COMPILING ]
+
+003
+
+Johnny_AI
+
+Python / Gemini
+
+[ ACTIVE ]
+
+004
+
+Portfolio
+
+Next.js
+
+[ DEPLOYED ]
+
+005
+
+Kalaangana
+
+Web / Design
+
+[ MAINTAINING ]
+
+<!-- 5. SYSTEM METRICS (Customized to Green/Black) -->
+
+[ NETWORK_METRICS ]
+
+<div align="center">
+<!-- Stats card custom colored to match Matrix theme -->
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMohithanjan23%26show_icons%3Dtrue%26hide_border%3Dtrue%26count_private%3Dtrue%26title_color%3D00FF41%26icon_color%3D00FF41%26text_color%3Dffffff%26bg_color%3D0d1117" width="48%" />
+
+<!-- Languages card custom colored -->
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DMohithanjan23%26layout%3Dcompact%26hide_border%3Dtrue%26title_color%3D00FF41%26text_color%3Dffffff%26bg_color%3D0d1117" width="48%" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/Mohithanjan23"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mohithanjan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/mohithanjan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:mohithanjan23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+
+
+
+
+<!-- Contribution Streak with Green Ring -->
+<img src="https://www.google.com/search?q=https://nirzak-streak-stats.vercel.app/%3Fuser%3DMohithanjan23%26hide_border%3Dtrue%26background%3D0D1117%26ring%3D00FF41%26fire%3D00FF41%26currStreakNum%3Dffffff%26sideNums%3Dffffff%26currStreakLabel%3D00FF41%26sideLabels%3D00FF41%26dates%3D00FF41" />
 </div>
 
----
+<!-- 6. CONNECT COMMANDS -->
 
-## 🚀 About Me
-I am a **Full Stack Developer** and **UI/UX Designer** who loves building secure, beautiful applications. I combine the logic of **Python/Backend** with the creativity of **Figma/Frontend**.
-
-* 🔭 **Working on:** OpenMango & Ideavore
-* 🌱 **Learning:** Advanced Cybersecurity & AI Agents
-* 🎨 **Design Philosophy:** "Simple is hard."
-
----
-
-## 🛠️ Tech Stack
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,react,flutter,dart,fastapi,flask,nodejs,express,mongodb,firebase,mysql,figma,linux,git,docker&perline=8" />
-  </a>
+<code>root@mohithanjan:~# connect --method=socials</code>
+
+
+
+
+
+
+
+<!-- Custom Green/Black Badges -->
+<a href="https://github.com/Mohithanjan23">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3D00FF41" />
+</a>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/mohithanjan/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-000000%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3D00FF41" />
+</a>
+<a href="https://instagram.com/mohithanjan">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-000000%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3D00FF41" />
+</a>
+<a href="mailto:mohithanjan23@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3D00FF41" />
+</a>
+<a href="https://www.google.com/search?q=https://mohithanjan.vercel.app/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-000000%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3D00FF41" />
+</a>
 </div>
 
----
-
-## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohithanjan23&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohithanjan23&theme=vision-friendly-dark&hide_border=true&layout=compact" width="48%" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mohithanjan23&theme=vision-friendly-dark&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohithanjan23&label=Profile%20views&color=8E2DE2&style=flat" />
+<!-- Traffic Log Counter -->
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DMohithanjan23%26label%3DTRAFFIC_LOGS%26color%3D00FF41%26style%3Dflat-square%26labelColor%3D000000" />
 </div>
