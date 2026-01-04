@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1200&color=7F3FFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mohith+H;Developer+%7C+Designer+%7C+Storyteller;Building+Ideas+into+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1200&color=7F3FFF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Mohith+H;Developer+%7C+Designer+%7C+Storyteller;Building+Ideas+into+Systems" />
 
 </div>
 
 ---
 
-## 👋 About Me
+##  About Me
 
 **Full-Stack Developer** & **UI/UX Designer**
 
@@ -14,7 +14,7 @@ I work at the intersection of **Web & App Development**, **UI/UX Design**, and *
 
 I love turning abstract ideas into **usable systems**, blending clean design, scalable backend logic, and storytelling — with a strong interest in **Cybersecurity** and **AI-powered workflows**.
 
-#### 🔍 Currently exploring
+####  Currently exploring
 - Full-stack web & mobile development  
 - Product design & UX systems  
 - AI-assisted workflows  
@@ -22,14 +22,13 @@ I love turning abstract ideas into **usable systems**, blending clean design, sc
 
 ---
 
-## 🚀 Currently Building / Working On
+##  Currently Building / Working On
 
 - **OpenMango** – Music player platform inspired by Spotify  
 - **Starfall** – Social web game inspired by *Among Us*  
 - **Bikebee** – Multi-purpose application for bikers  
 - Short films blending **psychological**, **sci-fi**, and **suspense**  
 
-I believe **technology should feel human** — not mechanical.
 
 <img src="https://komarev.com/ghpvc/?username=Mohithanjan23&label=Profile%20Views&color=7F3FFF&style=flat" />
 
@@ -157,14 +156,3 @@ I believe **technology should feel human** — not mechanical.
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=Mohithanjan23&theme=tokyo-night&hide_border=true" 
 />
-
----
-
-<img 
-  src="https://visitcount.itsvg.in/api?id=Mohithanjan23&label=Profile%20Views&color=7F3FFF&icon=5" 
-/>
-
----
-
-
-<img src="https://komarev.com/ghpvc/?username=Mohithanjan23&label=Profile%20Views&color=7F3FFF&style=flat" />
