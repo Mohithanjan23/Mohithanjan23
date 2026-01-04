@@ -6,13 +6,15 @@
 
 ---
 
-## About Me
+## 👋 About Me
 
-I work at the intersection of **Web & App Development**, **UI/UX design**, and **Creative Direction** and more.
+**Full-Stack Developer** & **UI/UX Designer**
 
-I love turning abstract ideas into **usable systems**, blending clean design, scalable backend logic, and storytelling.
+I work at the intersection of **Web & App Development**, **UI/UX Design**, and **Creative Direction**.
 
-#### Currently exploring:
+I love turning abstract ideas into **usable systems**, blending clean design, scalable backend logic, and storytelling — with a strong interest in **Cybersecurity** and **AI-powered workflows**.
+
+#### 🔍 Currently exploring
 - Full-stack web & mobile development  
 - Product design & UX systems  
 - AI-assisted workflows  
@@ -20,17 +22,18 @@ I love turning abstract ideas into **usable systems**, blending clean design, sc
 
 ---
 
-## Currently Building/Working
+## 🚀 Currently Building / Working On
 
-- **OpenMango** – Music Player platform replica of Spotify  
-- **Starfall** – Web game like Among Us for friends  
-- **Bikebee** – Bikers' application to multiple purposes  
-- Short films blending **psychological, sci-fi & suspense**  
+- **OpenMango** – Music player platform inspired by Spotify  
+- **Starfall** – Social web game inspired by *Among Us*  
+- **Bikebee** – Multi-purpose application for bikers  
+- Short films blending **psychological**, **sci-fi**, and **suspense**  
 
 I believe **technology should feel human** — not mechanical.
 
----
+<img src="https://komarev.com/ghpvc/?username=Mohithanjan23&label=Profile%20Views&color=7F3FFF&style=flat" />
 
+---
 ## Contribution Activity Game
 
 <picture>
@@ -104,16 +107,6 @@ I believe **technology should feel human** — not mechanical.
 
 ---
 
-###  Tools & Design
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-
----
-
 ##  GitHub Stats
 
 <div align="center">
@@ -131,7 +124,6 @@ I believe **technology should feel human** — not mechanical.
 />
 
 </div>
-
 
 
 ---
@@ -160,23 +152,14 @@ I believe **technology should feel human** — not mechanical.
 
 ---
 
-## 🔝 Top Contributions & Activity
+## Contributions Activity Graph
 
-<!-- Top contributed repositories -->
-<img 
-  src="https://github-contributor-stats.vercel.app/api?username=Mohithanjan23&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" 
-/>
-
-<br/>
-
-<!-- Contribution activity graph -->
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=Mohithanjan23&theme=tokyo-night&hide_border=true" 
 />
 
 ---
 
-<!-- Profile visit counter -->
 <img 
   src="https://visitcount.itsvg.in/api?id=Mohithanjan23&label=Profile%20Views&color=7F3FFF&icon=5" 
 />
