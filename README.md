@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Mohithanjan;Code.+Create.+Capture.;Building+%22Johnny%22+AI;Filmmaker+%26+BCA+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=Hi+I'm+Mohith+H;Intern+@+PES+CRAIS;Founder+@+Kalaangana;Building+LeakPeek+%26+CinePlan" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,23 +12,23 @@
       <h2>🚀 About Me</h2>
       <br>
       
-      > *"The only limit is your imagination."*
+      > *"Turning complex technical challenges into engaging stories."*
       
-      <br>
+      I am a **BCA Student** and **Creative Developer** with a passion for building impactful products. My work bridges the gap between **Full-Stack Engineering** and **Creative Direction**.
       
-      I am a **BCA Student** blending the logic of code with the art of storytelling. Whether I'm building AI agents or directing short films, I love bringing ideas to life.
-      
-      - 🔭 **Working on:** <a href="#"><b>Johnny</b></a> (Jarvis-inspired AI) & <a href="#"><b>Ideavore</b></a>
-      - 🎬 **Filmmaking:** Creator of <i>"HUNGER?"</i> and <i>"Sundari"</i>
-      - 🌱 **Learning:** French 🇫🇷 & Advanced SEO
-      - ⚡ **Fun fact:** I treat my IDE like a screenplay—every line of code tells a story. 
+      - 💼 **Experience:** Summer Intern @ **PES CRAIS** (Robotics & Frontend)
+      - 🗣️ **Leadership:** Campus Ambassador @ **Niyo Solutions**
+      - 🎭 **Founder:** **Kalaangana** (Cultural Club) & **Init.PESU.CA**
+      - 🔭 **Building:** <a href="https://github.com/Mohithanjan23"><b>LeakPeek</b></a> (Cybersecurity) & <a href="https://github.com/Mohithanjan23"><b>CinePlan</b></a>
+      - 🌱 **Learning:** Cloud Security & Advanced SEO
 
       <br>
       <b>📫 Connect with me:</b>
       <p>
         <a href="https://github.com/Mohithanjan23"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-        <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-        <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+        <a href="https://www.linkedin.com/in/mohithanjan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+        <a href="mailto:mohithanjan23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+        <a href="https://mohithanjan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Website"/></a>
       </p>
     </td>
     <td width="40%" valign="center">
@@ -40,6 +40,25 @@
     </td>
   </tr>
 </table>
+
+<h3>💼 Career Highlights</h3>
+
+| **Role** | **Organization** | **Key Impact** |
+| :--- | :--- | :--- |
+| **Summer Intern** | **PES CRAIS** | Upgraded control panels using **React** & **Docker**; built **Python** backend for robotics. |
+| **Founder** | **Kalaangana** | Directed university-wide cultural events and managed student-led initiatives. |
+| **Campus Ambassador** | **Niyo Solutions** | Led inbound marketing campaigns to boost brand visibility among peers. |
+
+<br>
+
+<h3>📜 Certifications</h3>
+<p>
+<img src="https://img.shields.io/badge/AWS-Solutions_Architect-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Tata_Group-blue?style=flat-square&logo=security"/>
+<img src="https://img.shields.io/badge/Data_Analytics-Quantium-green?style=flat-square&logo=google-analytics"/>
+</p>
+
+<br>
 
 <h3 align="left">🛠️ The Arsenal</h3>
 
@@ -56,10 +75,10 @@
 
 | **Project** | **Description** | **Stack** |
 | :--- | :--- | :--- |
-| 🤖 **Johnny AI** | Personal Assistant inspired by Iron Man's Jarvis. | *Python, Gemini API* |
-| 🔐 **CrackBank** | Banking security awareness tool (Have I Been Pwned clone). | *MERN, Cybersecurity* |
-| 📸 **Smile Hard** | A fun selfie-based web game. | *Flask, HTML/JS* |
-| 🥗 **CalPlate** | Nutrition and calorie tracking application. | *React, Supabase* |
+| 🕵️‍♂️ **LeakPeek** | Dark web data breach detection system with real-time alerts. | *Flask, Flutter, Scrapy* |
+| 🎬 **CinePlan** | AI-powered productivity dashboard for filmmakers & photographers. | *React, Supabase, Gemini AI* |
+| 🥗 **CalPlate** | AI fitness & nutrition tracking app with secure architecture. | *React, Supabase* |
+| 📝 **Content-wind** | Content feasibility analyzer for creators to validate ideas. | *React, Node.js, Vite* |
 
 <br>
 
