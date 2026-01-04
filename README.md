@@ -31,7 +31,7 @@ I believe **technology should feel human** — not mechanical.
 
 ---
 
-## Contribution Activity
+## Contribution Activity Game
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -159,5 +159,29 @@ I believe **technology should feel human** — not mechanical.
 </div>
 
 ---
+
+## 🔝 Top Contributions & Activity
+
+<!-- Top contributed repositories -->
+<img 
+  src="https://github-contributor-stats.vercel.app/api?username=Mohithanjan23&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" 
+/>
+
+<br/>
+
+<!-- Contribution activity graph -->
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Mohithanjan23&theme=tokyo-night&hide_border=true" 
+/>
+
+---
+
+<!-- Profile visit counter -->
+<img 
+  src="https://visitcount.itsvg.in/api?id=Mohithanjan23&label=Profile%20Views&color=7F3FFF&icon=5" 
+/>
+
+---
+
 
 <img src="https://komarev.com/ghpvc/?username=Mohithanjan23&label=Profile%20Views&color=7F3FFF&style=flat" />
