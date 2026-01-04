@@ -1,95 +1,120 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=Hi+I'm+Mohith+H;Intern+@+PES+CRAIS;Founder+@+Kalaangana;Building+LeakPeek+%26+CinePlan" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1200&color=7F3FFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mohith+Anjan;Developer+%7C+Designer+%7C+Storyteller;Building+Ideas+into+Systems" />
+
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,4,5&height=2&section=footer" width="100%"/>
-</div>
+---
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h2>🚀 About Me</h2>
-      <br>
-      
-      > *"Turning complex technical challenges into engaging stories."*
-      
-      I am a **BCA Student** and **Creative Developer** with a passion for building impactful products. My work bridges the gap between **Full-Stack Engineering** and **Creative Direction**.
-      
-      - 💼 **Experience:** Summer Intern @ **PES CRAIS** (Robotics & Frontend)
-      - 🗣️ **Leadership:** Campus Ambassador @ **Niyo Solutions**
-      - 🎭 **Founder:** **Kalaangana** (Cultural Club) & **Init.PESU.CA**
-      - 🔭 **Building:** <a href="https://github.com/Mohithanjan23"><b>LeakPeek</b></a> (Cybersecurity) & <a href="https://github.com/Mohithanjan23"><b>CinePlan</b></a>
-      - 🌱 **Learning:** Cloud Security & Advanced SEO
+## 👋 About Me
 
-      <br>
-      <b>📫 Connect with me:</b>
-      <p>
-        <a href="https://github.com/Mohithanjan23"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-        <a href="https://www.linkedin.com/in/mohithanjan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-        <a href="mailto:mohithanjan23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-        <a href="https://mohithanjan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Website"/></a>
-      </p>
-    </td>
-    <td width="40%" valign="center">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Mohithanjan23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohithanjan's Stats" />
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohithanjan23&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-      </div>
-    </td>
-  </tr>
-</table>
+I’m **Mohith Anjan** — a developer who loves building **products with purpose**.
 
-<h3>💼 Career Highlights</h3>
+I work at the intersection of  
+**software engineering**, **UI/UX design**, and **creative direction**.
 
-| **Role** | **Organization** | **Key Impact** |
-| :--- | :--- | :--- |
-| **Summer Intern** | **PES CRAIS** | Upgraded control panels using **React** & **Docker**; built **Python** backend for robotics. |
-| **Founder** | **Kalaangana** | Directed university-wide cultural events and managed student-led initiatives. |
-| **Campus Ambassador** | **Niyo Solutions** | Led inbound marketing campaigns to boost brand visibility among peers. |
+I enjoy turning abstract ideas into **usable systems**, blending  
+clean design, scalable backend logic, and storytelling.
 
-<br>
+Currently exploring:
+- Full-stack web & mobile development  
+- Product design & UX systems  
+- AI-assisted workflows  
+- Creative tech & film-driven storytelling  
 
-<h3>📜 Certifications</h3>
+---
+
+## 🚀 What I’m Building
+
+- **CALPLATE** – Fitness & nutrition tracking platform  
+- **LeakPeek** – Mobile app for intelligent issue detection  
+- **Gantry Automation System** – Robotics + FastAPI + UI integration  
+- Creative short films blending **psychological, sci-fi & suspense**  
+
+I believe **technology should feel human** — not mechanical.
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Languages
 <p>
-<img src="https://img.shields.io/badge/AWS-Solutions_Architect-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cybersecurity-Tata_Group-blue?style=flat-square&logo=security"/>
-<img src="https://img.shields.io/badge/Data_Analytics-Quantium-green?style=flat-square&logo=google-analytics"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<br>
+---
 
-<h3 align="left">🛠️ The Arsenal</h3>
+### 🧱 Frameworks & Libraries
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
 
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) |
-| **Frameworks** | ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) |
-| **Backend** | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) |
-| **Creative** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Editing](https://img.shields.io/badge/-Premiere_Pro-9999FF?logo=adobe-premiere-pro&logoColor=white) |
+---
 
-<br>
+### 🛢️ Databases & Services
+<p>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
 
-<h3>🏆 Featured Projects</h3>
+---
 
-| **Project** | **Description** | **Stack** |
-| :--- | :--- | :--- |
-| 🕵️‍♂️ **LeakPeek** | Dark web data breach detection system with real-time alerts. | *Flask, Flutter, Scrapy* |
-| 🎬 **CinePlan** | AI-powered productivity dashboard for filmmakers & photographers. | *React, Supabase, Gemini AI* |
-| 🥗 **CalPlate** | AI fitness & nutrition tracking app with secure architecture. | *React, Supabase* |
-| 📝 **Content-wind** | Content feasibility analyzer for creators to validate ideas. | *React, Node.js, Vite* |
+### 🛠️ Tools & Design
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
-<br>
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br>
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mohithanjan23&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohithanjan23&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohithanjan23&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="mailto:mohithanjan23@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/mohithanjan/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/mohithanjan">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+🧠 *"I don't just write code — I design experiences, systems, and stories."*
+
+</div>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=Mohithanjan23&label=Profile%20Views&color=7F3FFF&style=flat" />
