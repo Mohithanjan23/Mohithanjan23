@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1200&color=7F3FFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mohith+Anjan;Developer+%7C+Designer+%7C+Storyteller;Building+Ideas+into+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1200&color=7F3FFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mohith+H;Developer+%7C+Designer+%7C+Storyteller;Building+Ideas+into+Systems" />
 
 </div>
 
@@ -8,13 +8,12 @@
 
 ## 👋 About Me
 
-I’m **Mohith Anjan** — a developer who loves building **products with purpose**.
+I’m **Mohith H**
 
 I work at the intersection of  
-**software engineering**, **UI/UX design**, and **creative direction**.
+**Web & App Development**, **UI/UX design**, and **Creative Direction**.
 
-I enjoy turning abstract ideas into **usable systems**, blending  
-clean design, scalable backend logic, and storytelling.
+I love turning abstract ideas into **usable systems**, blending clean design, scalable backend logic, and storytelling.
 
 Currently exploring:
 - Full-stack web & mobile development  
@@ -24,20 +23,35 @@ Currently exploring:
 
 ---
 
-## 🚀 What I’m Building
+## Currently Building/Working
 
-- **CALPLATE** – Fitness & nutrition tracking platform  
-- **LeakPeek** – Mobile app for intelligent issue detection  
-- **Gantry Automation System** – Robotics + FastAPI + UI integration  
-- Creative short films blending **psychological, sci-fi & suspense**  
+- **OpenMango** – Music Player platform replica of Spotify  
+- **Starfall** – Web game like Among Us for friends  
+- **Bikebee** – Bikers' application to multiple purposes  
+- Short films blending **psychological, sci-fi & suspense**  
 
 I believe **technology should feel human** — not mechanical.
 
 ---
 
-## 🧠 Tech Stack
+## Contribution Activity
 
-### 💻 Languages
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation"
+       src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br>
+
+---
+
+## Tech Stack
+
+###  Languages
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -48,7 +62,7 @@ I believe **technology should feel human** — not mechanical.
 
 ---
 
-### 🧱 Frameworks & Libraries
+###  Frameworks & Libraries
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -59,7 +73,7 @@ I believe **technology should feel human** — not mechanical.
 
 ---
 
-### 🛢️ Databases & Services
+###  Databases & Services
 <p>
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -69,7 +83,7 @@ I believe **technology should feel human** — not mechanical.
 
 ---
 
-### 🛠️ Tools & Design
+###  Tools & Design
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -79,7 +93,7 @@ I believe **technology should feel human** — not mechanical.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -93,7 +107,7 @@ I believe **technology should feel human** — not mechanical.
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
 <a href="mailto:mohithanjan23@gmail.com">
@@ -111,7 +125,7 @@ I believe **technology should feel human** — not mechanical.
 
 <div align="center">
 
-🧠 *"I don't just write code — I design experiences, systems, and stories."*
+ *"I don’t just write code — I design experiences, systems, and stories."*
 
 </div>
 
