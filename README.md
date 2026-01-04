@@ -1,5 +1,10 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Designing%20Experiences%20%26%20Securing%20Systems&fontAlign=50&fontSize=27&fontColor=ffffff&color=0:ff512f,100:dd2476&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Shreeya%20Methuku&fontAlign=50&fontSize=40&fontColor=ffffff&color=0:00C7B7,100:2A2E34&animation=twinkling)
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=00C7B7&background=2A2E3400&center=true&vCenter=true&lines=AI+%26+ML+Enthusiast;Generative+AI+Explorer;Full+Stack+Developer" alt="Typing SVG" />
+  </a>
+</div>
 ## Hi there 👋 I'm Mohith H
 
 🚀 **About Me:**
