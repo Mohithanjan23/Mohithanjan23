@@ -6,14 +6,13 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-I work at the intersection of  
-**Web & App Development**, **UI/UX design**, and **Creative Direction** and more.
+I work at the intersection of **Web & App Development**, **UI/UX design**, and **Creative Direction** and more.
 
 I love turning abstract ideas into **usable systems**, blending clean design, scalable backend logic, and storytelling.
 
-Currently exploring:
+#### Currently exploring:
 - Full-stack web & mobile development  
 - Product design & UX systems  
 - AI-assisted workflows  
@@ -91,17 +90,24 @@ I believe **technology should feel human** — not mechanical.
 
 ---
 
-## GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohithanjan23&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
- 
-<img src="https://streak-stats.demolab.com?user=Mohithanjan23&theme=tokyonight&hide_border=true"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Mohithanjan23&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohithanjan23&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img
+  src="https://streak-stats.demolab.com?user=Mohithanjan23&theme=tokyonight&hide_border=true"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohithanjan23&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+/>
 
 </div>
+
 
 
 ---
