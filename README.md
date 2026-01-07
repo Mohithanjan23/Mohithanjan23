@@ -108,11 +108,11 @@ I love turning abstract ideas into **usable systems**, blending clean design, sc
 
 ##  GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mohithanjan23&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Mohithanjan23&theme=dark&hide_border=false" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMohithanjan23%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" height="180" alt="stats graph" />
+<img src="https://streak-stats.demolab.com?user=Mohithanjan23&theme=tokyonight&hide_border=true" height="180" alt="streak graph" />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohithanjan23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language%3Fusername%3DMohithanjan23%26theme%3Ddark" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DMohithanjan23%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" height="180" alt="languages graph" />
+<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language%3Fusername%3DMohithanjan23%26theme%3Dtokyonight" height="180" alt="repos graph" />
 </div>
 
 ##  Connect With Me
