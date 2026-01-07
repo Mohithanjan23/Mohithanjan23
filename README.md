@@ -109,21 +109,12 @@ I love turning abstract ideas into **usable systems**, blending clean design, sc
 ##  GitHub Stats
 
 <div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Mohithanjan23&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-/>
-
-<img
-  src="https://streak-stats.demolab.com?user=Mohithanjan23&theme=tokyonight&hide_border=true"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohithanjan23&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Mohithanjan23&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=Mohithanjan23&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </div>
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohithanjan23&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180" alt="Top Languages" />
+</div>
 
 ---
 
