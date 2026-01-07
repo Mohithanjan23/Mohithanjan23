@@ -107,14 +107,13 @@ I love turning abstract ideas into **usable systems**, blending clean design, sc
 ---
 
 ##  GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Mohithanjan23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mohithanjan23&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohithanjan23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayur-shashidhar&theme=dark)
-
-
----
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mohithanjan23&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Mohithanjan23&theme=dark&hide_border=false" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohithanjan23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language%3Fusername%3DMohithanjan23%26theme%3Ddark" />
+</div>
 
 ##  Connect With Me
 
