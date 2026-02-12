@@ -4,68 +4,64 @@
 
 </div>
 
----
+About Me
 
-##  About Me
+Full-Stack Developer & UI/UX Designer
 
-**Full-Stack Developer** & **UI/UX Designer**
+I work at the intersection of Web & App Development, UI/UX Design, and Creative Direction.
 
-I work at the intersection of **Web & App Development**, **UI/UX Design**, and **Creative Direction**.
+I love turning abstract ideas into usable systems, blending clean design, scalable backend logic, and storytelling — with a strong interest in Cybersecurity and AI-powered workflows.
 
-I love turning abstract ideas into **usable systems**, blending clean design, scalable backend logic, and storytelling — with a strong interest in **Cybersecurity** and **AI-powered workflows**.
+Currently exploring
 
-####  Currently exploring
-- Full-stack web & mobile development  
-- Product design & UX systems  
-- AI-assisted workflows  
-- Creative tech & film-driven storytelling  
+Full-stack web & mobile development
 
----
+Product design & UX systems
 
-##  Currently Building / Working On
+AI-assisted workflows
 
-- **OpenMango** – Music player platform inspired by Spotify  
-- **Starfall** – Social web game inspired by *Among Us*  
-- **Bikebee** – Multi-purpose application for bikers  
-- Short films blending **psychological**, **sci-fi**, and **suspense**  
+Creative tech & film-driven storytelling
 
+Currently Building / Working On
 
-<img src="https://komarev.com/ghpvc/?username=Mohithanjan23&label=Profile%20Views&color=7F3FFF&style=flat" />
+Starfall – Social web game inspired by Among Us
 
----
-## Contribution Activity Game
+Bikebee – Multi-purpose application for bikers
+
+Short films blending psychological, sci-fi, and suspense <img src="https://komarev.com/ghpvc/?username=Mohithanjan23&label=Profile%20Views&color=7F3FFF&style=flat" />
+
+Contribution Activity Game
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation"
-       src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation"
+src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br>
+Tech Stack
 
----
+Languages
 
-## Tech Stack
-
-###  Languages
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-3178C6%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
----
+Frameworks & Libraries
 
-###  Frameworks & Libraries
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnext.js%26logoColor%3Dwhite"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Socket.io-010101%3Fstyle%3Dfor-the-badge%26logo%3Dsocket.io%26logoColor%3Dwhite"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -73,27 +69,26 @@ I love turning abstract ideas into **usable systems**, blending clean design, sc
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
----
+Databases & Backend Services
 
-###  Databases & Backend Services
 <p>
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Prisma-2D3748%3Fstyle%3Dfor-the-badge%26logo%3Dprisma%26logoColor%3Dwhite"/>
 </p>
 
----
+AI / Computer Vision & Security
 
-###  AI / Computer Vision
 <p>
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kali_Linux-557C94%3Fstyle%3Dfor-the-badge%26logo%3Dkali-linux%26logoColor%3Dwhite"/>
 </p>
 
----
-###  DevOps, Tools & Design
+DevOps, Tools & Design
+
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -102,21 +97,12 @@ I love turning abstract ideas into **usable systems**, blending clean design, sc
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe%2520Premiere-9999FF%3Fstyle%3Dfor-the-badge%26logo%3Dadobe-premiere-pro%26logoColor%3Dwhite"/>
 </p>
 
----
+GitHub Stats
 
-##  GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Mohithanjan23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mohithanjan23&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohithanjan23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayur-shashidhar&theme=dark)
-
-
----
-
-##  Connect With Me
+Connect With Me
 
 <p align="center">
 <a href="mailto:mohithanjan23@gmail.com">
@@ -132,14 +118,13 @@ I love turning abstract ideas into **usable systems**, blending clean design, sc
 
 <div align="center">
 
- *"I don’t just write code — I design experiences, systems, and stories."*
+"I don’t just write code — I design experiences, systems, and stories."
 
 </div>
 
----
+Contribution Graph (Weeks)
 
-## Contributions Activity Graph
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Mohithanjan23&theme=tokyo-night&hide_border=true" 
+<img
+src="https://www.google.com/search?q=http://ghchart.rshah.org/7F3FFF/Mohithanjan23"
+alt="Mohithanjan23's Weekly Contribution Graph"
 />
