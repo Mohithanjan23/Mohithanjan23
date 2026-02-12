@@ -4,7 +4,7 @@
 
 </div>
 
-About Me
+# About Me
 
 Full-Stack Developer & UI/UX Designer
 
@@ -12,7 +12,7 @@ I work at the intersection of Web & App Development, UI/UX Design, and Creative 
 
 I love turning abstract ideas into usable systems, blending clean design, scalable backend logic, and storytelling — with a strong interest in Cybersecurity and AI-powered workflows.
 
-Currently exploring
+## Currently exploring
 
 Full-stack web & mobile development
 
@@ -22,7 +22,7 @@ AI-assisted workflows
 
 Creative tech & film-driven storytelling
 
-Currently Building / Working On
+## Currently Building / Working On
 
 Starfall – Social web game inspired by Among Us
 
@@ -30,7 +30,7 @@ Bikebee – Multi-purpose application for bikers
 
 Short films blending psychological, sci-fi, and suspense <img src="https://komarev.com/ghpvc/?username=Mohithanjan23&label=Profile%20Views&color=7F3FFF&style=flat" />
 
-Contribution Activity Game
+# Contribution Activity Game
 
 <picture>
 <source media="(prefers-color-scheme: dark)"
@@ -41,9 +41,9 @@ srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution
 src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
-Tech Stack
+# Tech Stack
 
-Languages
+### Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -55,7 +55,7 @@ Languages
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-Frameworks & Libraries
+### Frameworks & Libraries
 
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -69,7 +69,7 @@ Frameworks & Libraries
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-Databases & Backend Services
+### Databases & Backend Services
 
 <p>
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
@@ -79,7 +79,7 @@ Databases & Backend Services
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Prisma-2D3748%3Fstyle%3Dfor-the-badge%26logo%3Dprisma%26logoColor%3Dwhite"/>
 </p>
 
-AI / Computer Vision & Security
+### AI / Computer Vision & Security
 
 <p>
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black"/>
@@ -87,7 +87,7 @@ AI / Computer Vision & Security
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Kali_Linux-557C94%3Fstyle%3Dfor-the-badge%26logo%3Dkali-linux%26logoColor%3Dwhite"/>
 </p>
 
-DevOps, Tools & Design
+### DevOps, Tools & Design
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -100,9 +100,9 @@ DevOps, Tools & Design
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe%2520Premiere-9999FF%3Fstyle%3Dfor-the-badge%26logo%3Dadobe-premiere-pro%26logoColor%3Dwhite"/>
 </p>
 
-GitHub Stats
+# GitHub Stats
 
-Connect With Me
+## Connect With Me
 
 <p align="center">
 <a href="mailto:mohithanjan23@gmail.com">
@@ -122,7 +122,7 @@ Connect With Me
 
 </div>
 
-Contribution Graph (Weeks)
+# Contribution Graph (Weeks)
 
 <img
 src="https://www.google.com/search?q=http://ghchart.rshah.org/7F3FFF/Mohithanjan23"
