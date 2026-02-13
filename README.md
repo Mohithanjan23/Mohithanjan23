@@ -1,32 +1,30 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1200&color=7F3FFF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Mohith+H;Also,+Known+as%2C+Mohithanjan;Developer+%7C+Designer+%7C+Storyteller;Building+Ideas+into+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1200&color=7F3FFF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Mohith+H;Also%2C+Known+as+Mohithanjan;Developer+%7C+Designer+%7C+Storyteller;Building+Ideas+into+Systems" />
 
 </div>
 
-# About Me
+##  About Me
 
-Full-Stack Developer & UI/UX Designer & Storyteller
+**Full-Stack Developer** & **UI/UX Designer**
 
 I work at the intersection of Web & App Development, UI/UX Design, and Creative Direction.
 I love turning abstract ideas into usable systems, blending clean design, scalable backend logic, and storytelling — with a strong interest in Cybersecurity and AI-powered workflows.
 
-## Currently exploring
+### Currently exploring
 
 Full-stack web & Mobile App development
 Product design & UX systems
 AI-assisted workflows
 Creative tech & film-driven storytelling
 
-## Currently Building / Working On
+### Currently Building / Working On
 
 Starfall – Social web game inspired by Among Us
-
 Bikebee – Multi-purpose application for bikers
+Short films blending psychological, sci-fi, and suspense
 
-Short films blending psychological, sci-fi, and suspense <img src="https://komarev.com/ghpvc/?username=Mohithanjan23&label=Profile%20Views&color=7F3FFF&style=flat" />
-
-# Contribution Activity Game
+## Contribution Activity Game
 
 <picture>
 <source media="(prefers-color-scheme: dark)"
@@ -37,7 +35,8 @@ srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution
 src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
-# Tech Stack
+## Tech Stack
+<img src="https://komarev.com/ghpvc/?username=Mohithanjan23&label=Profile%20Views&color=7F3FFF&style=flat" />
 
 ### Languages
 
@@ -55,9 +54,10 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnext.js%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Angular-DD0031%3Fstyle%3Dfor-the-badge%26logo%3Dangular%26logoColor%3Dwhite"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Socket.io-010101%3Fstyle%3Dfor-the-badge%26logo%3Dsocket.io%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Socket.io-010101%3Fstyle%3Dfor-the-badge%26logo%3Dsocketdotio%26logoColor%3Dwhite"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -80,7 +80,7 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 <p>
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kali_Linux-557C94%3Fstyle%3Dfor-the-badge%26logo%3Dkali-linux%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kali_Linux-557C94%3Fstyle%3Dfor-the-badge%26logo%3Dkalilinux%26logoColor%3Dwhite"/>
 </p>
 
 ### DevOps, Tools & Design
@@ -93,11 +93,21 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe%2520Premiere-9999FF%3Fstyle%3Dfor-the-badge%26logo%3Dadobe-premiere-pro%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe%2520Photoshop-31A8FF%3Fstyle%3Dfor-the-badge%26logo%3Dadobephotoshop%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe%2520Illustrator-FF9A00%3Fstyle%3Dfor-the-badge%26logo%3Dadobeillustrator%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe%2520Premiere-9999FF%3Fstyle%3Dfor-the-badge%26logo%3Dadobepremierepro%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe%2520Express-CC104F%3Fstyle%3Dfor-the-badge%26logo%3Dadobe%26logoColor%3Dwhite"/>
 </p>
 
 # GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Mohithanjan23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mohithanjan23&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohithanjan23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayur-shashidhar&theme=dark)
+
+
+---
 ## Connect With Me
 
 <p align="center">
@@ -113,14 +123,10 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 </p>
 
 <div align="center">
-
 "I don’t just write code — I design experiences, systems, and stories."
-
 </div>
 
 # Contribution Graph (Weeks)
 
-<img
-src="https://www.google.com/search?q=http://ghchart.rshah.org/7F3FFF/Mohithanjan23"
-alt="Mohithanjan23's Weekly Contribution Graph"
-/>
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://ghchart.rshah.org/7F3FFF/Mohithanjan23"
+alt="Mohithanjan23's Weekly Contribution Graph" />
