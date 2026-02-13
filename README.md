@@ -81,7 +81,7 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 <p>
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94%3Fstyle%3Dfor-the-badge%26logo%3Dkalilinux%26logoColor%3Dwhite"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 </p>
 
 ### DevOps, Tools & Design
