@@ -4,9 +4,9 @@
 
 </div>
 
-##  About Me
+##  About Me 
 
-**Full-Stack Developer** & **UI/UX Designer**
+**Full-Stack Developer** & **UI/UX Designer** <img src="https://komarev.com/ghpvc/?username=Mohithanjan23&label=Profile%20Views&color=7F3FFF&style=flat" />
 
 I work at the intersection of Web & App Development, UI/UX Design, and Creative Direction.
 I love turning abstract ideas into usable systems, blending clean design, scalable backend logic, and storytelling — with a strong interest in Cybersecurity and AI-powered workflows.
@@ -36,7 +36,6 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 </picture>
 
 ## Tech Stack
-<img src="https://komarev.com/ghpvc/?username=Mohithanjan23&label=Profile%20Views&color=7F3FFF&style=flat" />
 
 ### Languages
 
@@ -48,7 +47,8 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 ### Frameworks & Libraries
