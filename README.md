@@ -106,7 +106,7 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 ![](https://nirzak-streak-stats.vercel.app/?user=Mohithanjan23&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohithanjan23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayur-shashidhar&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohithanjan23&theme=dark)
 
 
 ---
