@@ -43,11 +43,12 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite"/>
+
 </p>
 
 ### Frameworks & Libraries
@@ -72,7 +73,7 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Prisma-2D3748%3Fstyle%3Dfor-the-badge%26logo%3Dprisma%26logoColor%3Dwhite"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 </p>
 
 ### AI / Computer Vision & Security
@@ -80,7 +81,7 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 <p>
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kali_Linux-557C94%3Fstyle%3Dfor-the-badge%26logo%3Dkalilinux%26logoColor%3Dwhite"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94%3Fstyle%3Dfor-the-badge%26logo%3Dkalilinux%26logoColor%3Dwhite"/>
 </p>
 
 ### DevOps, Tools & Design
@@ -93,10 +94,10 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe%2520Photoshop-31A8FF%3Fstyle%3Dfor-the-badge%26logo%3Dadobephotoshop%26logoColor%3Dwhite"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe%2520Illustrator-FF9A00%3Fstyle%3Dfor-the-badge%26logo%3Dadobeillustrator%26logoColor%3Dwhite"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe%2520Premiere-9999FF%3Fstyle%3Dfor-the-badge%26logo%3Dadobepremierepro%26logoColor%3Dwhite"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe%2520Express-CC104F%3Fstyle%3Dfor-the-badge%26logo%3Dadobe%26logoColor%3Dwhite"/>
+<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 </p>
 
 ## GitHub Stats
