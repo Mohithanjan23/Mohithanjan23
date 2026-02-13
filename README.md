@@ -99,7 +99,7 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe%2520Express-CC104F%3Fstyle%3Dfor-the-badge%26logo%3Dadobe%26logoColor%3Dwhite"/>
 </p>
 
-# GitHub Stats
+## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Mohithanjan23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mohithanjan23&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohithanjan23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -126,7 +126,8 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 "I don’t just write code — I design experiences, systems, and stories."
 </div>
 
-# Contribution Graph (Weeks)
+## Contributions Activity Graph
 
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://ghchart.rshah.org/7F3FFF/Mohithanjan23"
-alt="Mohithanjan23's Weekly Contribution Graph" />
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Mohithanjan23&theme=tokyo-night&hide_border=true" 
+/>
