@@ -1,25 +1,21 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1200&color=7F3FFF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Mohith+H;Developer+%7C+Designer+%7C+Storyteller;Building+Ideas+into+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1200&color=7F3FFF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Mohith+H;Also,+Known+as%2C+Mohithanjan;Developer+%7C+Designer+%7C+Storyteller;Building+Ideas+into+Systems" />
 
 </div>
 
 # About Me
 
-Full-Stack Developer & UI/UX Designer
+Full-Stack Developer & UI/UX Designer & Storyteller
 
 I work at the intersection of Web & App Development, UI/UX Design, and Creative Direction.
-
 I love turning abstract ideas into usable systems, blending clean design, scalable backend logic, and storytelling — with a strong interest in Cybersecurity and AI-powered workflows.
 
 ## Currently exploring
 
-Full-stack web & mobile development
-
+Full-stack web & Mobile App development
 Product design & UX systems
-
 AI-assisted workflows
-
 Creative tech & film-driven storytelling
 
 ## Currently Building / Working On
