@@ -13,16 +13,16 @@ I love turning abstract ideas into usable systems, blending clean design, scalab
 
 ### Currently exploring
 
-Full-stack web & Mobile App development
-Product design & UX systems
-AI-assisted workflows
-Creative tech & film-driven storytelling
+- Full-stack web & mobile development  
+- Product design & UX systems  
+- AI-assisted workflows  
+- Creative tech & film-driven storytelling  
 
 ### Currently Building / Working On
 
-Starfall – Social web game inspired by Among Us
-Bikebee – Multi-purpose application for bikers
-Short films blending psychological, sci-fi, and suspense
+- **Starfall** – Social web game inspired by *Among Us*  
+- **Bikebee** – Multi-purpose application for bikers  
+- Short films blending **psychological**, **sci-fi**, and **suspense**  
 
 ## Contribution Activity Game
 
@@ -43,7 +43,7 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-3178C6%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
