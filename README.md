@@ -21,7 +21,6 @@ I love turning abstract ideas into usable systems, blending clean design, scalab
 ### Currently Building / Working On
 
 - **Starfall** – Social web game inspired by *Among Us*  
-- **Bikebee** – Multi-purpose application for bikers  
 - Short films blending **psychological**, **sci-fi**, and **suspense**  
 
 ## Contribution Activity Game
